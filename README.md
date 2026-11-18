@@ -1,4 +1,4 @@
-# 📚 Java Data Structures & Algorithms Library (APSD)
+# Java Data Structures & Algorithms Library (APSD)
 
 Libreria di strutture dati e algoritmi sviluppata in **Java** per l'esame di **Algoritmi e Programmazione per Strutture Dati (APSD)**.
 
@@ -6,14 +6,14 @@ Il progetto implementa una gerarchia completa di Tipi di Dato Astratti (ADT), co
 
 ---
 
-## 🎯 Contesto del Progetto e Contributo Personale
+## Contesto del Progetto e Contributo Personale
 
 * **Architettura e Specifica (Forniti dai Docenti):** La gerarchia delle interfacce, le firme dei metodi e i diagrammi di progettazione allegati nella documentazione PDF sono stati forniti dai docenti del corso come specifica architetturale di riferimento.
 * **Implementazione (Sviluppata da me):** Ho realizzato l'intera implementazione concreta delle classi base e delle strutture dati, scrivendo da zero tutti i metodi, gli iteratori (in avanti, all'indietro e mutabili), la gestione della memoria/riallocazione e gli algoritmi di ricerca e ordinamento.
 
 ---
 
-## 🏗️ Strutture Dati Implementate
+## Strutture Dati Implementate
 
 La libreria è organizzata in due macro-package (`interfaces` e `classes`) e offre doppie implementazioni (basate su **vettori** e su **liste concatenate**):
 
@@ -36,7 +36,7 @@ La libreria è organizzata in due macro-package (`interfaces` e `classes`) e off
 
 ---
 
-## 📂 Struttura del Repository
+## Struttura del Repository
 
 ```text
 ├── apsd/
